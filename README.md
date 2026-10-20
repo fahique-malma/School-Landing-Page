@@ -3,6 +3,9 @@
 A responsive, frontend-only admissions landing page for EAK International School, created for the EakPustak Pvt. Ltd. 
 Second-Round Hiring Assignment.
 
+## Live Demo
+https://fahique-malma.github.io/School-Landing-Page/
+
 The page is designed to help parents understand the school’s academic offering, explore its facilities, review sample admissions information, find answers to common questions, and reach an enquiry form.
 
 ## Features and required sections
