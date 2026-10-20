@@ -1,6 +1,7 @@
 # EAK International School — Admissions Landing Page
 
-A responsive, frontend-only admissions landing page for EAK International School, created for the EakPustak Pvt. Ltd. — Frontend Web Development Intern, Second-Round Hiring Assignment.
+A responsive, frontend-only admissions landing page for EAK International School, created for the EakPustak Pvt. Ltd. 
+Second-Round Hiring Assignment.
 
 The page is designed to help parents understand the school’s academic offering, explore its facilities, review sample admissions information, find answers to common questions, and reach an enquiry form.
 
